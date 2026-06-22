@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhoomiisback/my_codes/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/Bhoomiisback/my_codes/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
