@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhoomiisback/my_codes/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Bhoomiisback/my_codes/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhoomiisback/my_codes/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Bhoomiisback/my_codes/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
