@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Bhoomiisback/my_codes/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Bhoomiisback/my_codes/tree/master/0507-perfect-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Bhoomiisback/my_codes/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Bhoomiisback/my_codes/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Brainteaser
 |  |
 | ------- |
