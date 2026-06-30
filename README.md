@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bhoomiisback/my_codes/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Bhoomiisback/my_codes/tree/master/0169-majority-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Bhoomiisback/my_codes/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Bhoomiisback/my_codes/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Bhoomiisback/my_codes/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Bhoomiisback/my_codes/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Bhoomiisback/my_codes/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Bhoomiisback/my_codes/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Brainteaser
 |  |
 | ------- |
