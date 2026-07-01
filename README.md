@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhoomiisback/my_codes/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Bhoomiisback/my_codes/tree/master/0169-majority-element) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Bhoomiisback/my_codes/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Bhoomiisback/my_codes/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Bhoomiisback/my_codes/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Bhoomiisback/my_codes/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Bhoomiisback/my_codes/tree/master/0507-perfect-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Bhoomiisback/my_codes/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Bhoomiisback/my_codes/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Bhoomiisback/my_codes/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Bhoomiisback/my_codes/tree/master/2652-sum-multiples) |
