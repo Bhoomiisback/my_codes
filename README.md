@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Bhoomiisback/my_codes/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Bhoomiisback/my_codes/tree/master/0507-perfect-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Bhoomiisback/my_codes/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Bhoomiisback/my_codes/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Bhoomiisback/my_codes/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Bhoomiisback/my_codes/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -62,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Bhoomiisback/my_codes/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/Bhoomiisback/my_codes/tree/master/0476-number-complement) |
+| [1486-xor-operation-in-an-array](https://github.com/Bhoomiisback/my_codes/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
