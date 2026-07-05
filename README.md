@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhoomiisback/my_codes/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Bhoomiisback/my_codes/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Bhoomiisback/my_codes/tree/master/0283-move-zeroes) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Bhoomiisback/my_codes/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Bhoomiisback/my_codes/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Bhoomiisback/my_codes/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Bhoomiisback/my_codes/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/Bhoomiisback/my_codes/tree/master/0476-number-complement) |
 | [1486-xor-operation-in-an-array](https://github.com/Bhoomiisback/my_codes/tree/master/1486-xor-operation-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Bhoomiisback/my_codes/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
