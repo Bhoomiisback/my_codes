@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Bhoomiisback/my_codes/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/Bhoomiisback/my_codes/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Bhoomiisback/my_codes/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bhoomiisback/my_codes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Brainteaser
 |  |
 | ------- |
